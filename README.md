@@ -5,7 +5,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 
-![employee list](https://user-images.githubusercontent.com/103949835/210123296-45827512-c320-4c2a-8f9f-d55952267dd3.png)
+![employee list](https://user-images.githubusercontent.com/103949835/210123393-e10845d3-4027-4d9d-96f3-b21ad80de2af.png)
 
 
 ## DESIGN STEPS
@@ -51,10 +51,10 @@ admin.site.register(Employee,EmployeeAdmin)
 
 ## OUTPUT
 
-![employee details](https://user-images.githubusercontent.com/103949835/210123276-dc4220ff-7813-4759-bb0d-c2d63b666755.png)
+![employee details](https://user-images.githubusercontent.com/103949835/210123410-a6cae3a4-0936-4b95-82c0-61b165dcd525.png)
 
 
-![employee error](https://user-images.githubusercontent.com/103949835/210123283-eb7062f2-70df-4491-877b-41547317e70d.png)
+![employee error](https://user-images.githubusercontent.com/103949835/210123405-e1468439-579a-4d87-a6a6-6090fa75bda7.png)
 
 
 
