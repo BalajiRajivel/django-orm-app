@@ -11,13 +11,13 @@ To develop a Django application to store and retrieve data from a database using
 ## DESIGN STEPS
 
 ### STEP 1:
-first go to student.saveetha.ac.in and open theiaide
+First go to student.saveetha.ac.in and open theiaIDE
 
 ### STEP 2:
-open theiaide and go to admin.py and open models.py put some comments
+Open theiaIDE and go to admin.py and open models.py put some comments
 
 ### STEP 3:
-open github.com and create and generate classic token 
+Open github.com and create and generate classic token 
 
 Write your own steps
 
@@ -52,9 +52,11 @@ admin.site.register(Employee,EmployeeAdmin)
 ## OUTPUT
 
 ![employee details](https://user-images.githubusercontent.com/103949835/210123276-dc4220ff-7813-4759-bb0d-c2d63b666755.png)
+
+
 ![employee error](https://user-images.githubusercontent.com/103949835/210123283-eb7062f2-70df-4491-877b-41547317e70d.png)
 
 
 
 ## RESULT
-I  develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
+I  developed a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
